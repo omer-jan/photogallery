@@ -1,11 +1,5 @@
 this is my test 
 
-Where does it come from?
-Contrary to popular be
-lief, Lorem Ipsum is not simp
-ly random text. It has roots in a
- piece of classical Latin literature from
- 45 BC, making it over 2000 years old. Richard
- McClintock, a Latin professor at Ha
+ 
 mpden-Sydney College in Virg
 inia, looked up one of the more ob
